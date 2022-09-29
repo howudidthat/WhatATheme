@@ -9,11 +9,11 @@ baseurl:
 # Title of the Site
 title: Top Left Mushroom Co
 # Description of the Site
-description: Homepage for high-quality mushroom growing supplies.
+description: Your source for high-quality mushroom growing supplies.
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
-site-keywords: mushrooms, cultivation, mycology, monotubs, grain spawn
+site-keywords: mushrooms, cultivation, mycology, monotubs, grain spawn, sterilized grain, cubensis, monotub, magic mushrooms, shroomery, tek, unicorn bags
 # URL for the Image of custom Favicon
 favicon-url: 
 
@@ -45,7 +45,7 @@ author-name: Top Left
 # URL for the Image of the Author
 author-image: 
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: 
 
