@@ -1,13 +1,12 @@
 ---
-title: Sample Post
+title: Hello Mushroom Cultivators
 layout: post
 post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: An introduction to Top Left and our first product.
 tags:
-- sample
-- post
-- test
+- product
+- grain spawn
+- productivity
 ---
 
 This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
@@ -18,12 +17,9 @@ For more information about writing markdown you can checkout the following markd
 
 ---
 
-# This is the h1 text
-## This is the h2 text
-### This is the h3 text
-#### This is the h4 text
-##### This is the h5 text
-###### This is the h6 text
+# We're Here for Mushroom Cultivators
+
+Growing mushrooms is a complex and time-consuming process. Each stage must be completed with care to ensure a quality outcome and avoid contamination. Top Left Mushroom Co is dedicated to making culitvation easier by eliminating big time-wasters in your grow flow. We are a team of experienced growers who know where the pain points are and how to relieve that pain.
 
 **Bold Text in the post will look like:**<br>
 **This text is Bold**
@@ -33,7 +29,7 @@ For more information about writing markdown you can checkout the following markd
 
 > Quotes on your post will look like this
 
-`Codes on your post will look like this`
+
 
 **Link in the post will look like:**<br>
 [This is a link](#)
