@@ -31,13 +31,13 @@
                 {% for sitepage in site.html_pages offset: 4 %}
                 {% unless sitepage.url == '/'  limit: 2 %}
                 <li>
-                    <a href="{{sitepage.url | absolute_url}}">{{sitepage.title}}</a>
+                    <a href="http://shroomery.org">Shroomery</a>
                 </li>
                 {% endunless %}
                 {% endfor %}
-                <li>
+                <!--<li>
                     <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
-                </li>
+                </li>-->
             </div>
 
             <!--Blog-post Section-->
